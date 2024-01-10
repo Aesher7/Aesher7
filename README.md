@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aesher7
-- 👀 I’m interested in datascience
-- 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me via dm. 
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking for a challenge 
+- 📫 https://www.linkedin.com/in/andre-e-3757a8223/
 
 <!---
 Aesher7/Aesher7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
