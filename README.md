@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Aesher7
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking for a challenge 
-- 📫 https://www.linkedin.com/in/andre-e-3757a8223/
+## 👋 Hello, I'm [Andre Esher]
 
-<!---
-Aesher7/Aesher7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Aspiring Software Engineer | [Colorado State University]
+
+- 🌱 Currently studying [Computer Science/Colorado State University - Global Campus]
+- 💡 Passionate about [Frontend Developmnet, Generative AI]
+- 📚 Actively  & Always learning/exploring new technologies
+- 💻 Proficient in [HTML, CSS, JavaScript, Java, Dart]
+- 🛠️ Experienced with [Flutter, Node.js.]
+- 📫 Reach me at [andreeesher1@gmail.com] or [(https://www.linkedin.com/in/andre-e-3757a8223/)] 
+
+### 🔧 Skills
+
+- **Version Control:** Git, GitHub
+- **Mobile App Development:** Flutter, React Native
+- **Cloud Platforms:** AWS, Firebase
+- **Tools:** VS Code, GitLab 
+- **Agile/Scrum:** Jira, Confluence
+
