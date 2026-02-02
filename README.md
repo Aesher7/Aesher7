@@ -1,13 +1,13 @@
 ## 👋 Hello, I'm [Andre Esher]
 
-### 🚀 Aspiring Software Engineer | [Colorado State University]
+### 🚀 Aspiring AWS Cloud Engineer | [Colorado State University]
 
-- 🌱 Currently studying [M.S in Machine Learning - Artificial Intelligence /Colorado State University - Global Campus]
-- 💡 Passionate about [Frontend Development, Generative AI]
+- 🌱 Currently studying [AWS Cloud Support Associate]
+- 💡 Passionate about [System Administration, Cloud Support]
 - 📚 Actively  & Always learning/exploring new technologies
-- 💻 Proficient in [HTML, CSS, JavaScript, Python]
-- 🛠️ Experienced with [Flutter, Node.js.]
-- 📫 Reach me at [andreeesher1@gmail.com] or [(https://www.linkedin.com/in/andre-e-3757a8223/)] or https://aesher7.github.io/Portfolio_Website/
+- 💻 Proficient in [HTML, CSS, JavaScript, Python, EC2, S3. IAM]
+- 🛠️ Experienced with [Salesforce, AWS, Tableau]
+- 📫 Reach me at [andreeesher1@gmail.com] or [(https://www.linkedin.com/in/andre-e-3757a8223/)]
 
 ### 🔧 Skills
 
