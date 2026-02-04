@@ -3,7 +3,7 @@
 ### 🚀 Aspiring AWS Cloud Engineer | [Colorado State University]
 
 - 🌱 Currently studying [AWS Cloud Support Associate]
-- 💡 Passionate about [System Administration, Cloud Support]
+- 💡 Passionate about [Solutions Architect, Cloud Support]
 - 📚 Actively  & Always learning/exploring new technologies
 - 💻 Proficient in [HTML, CSS, JavaScript, Python, EC2, S3. IAM]
 - 🛠️ Experienced with [Salesforce, AWS, Tableau]
